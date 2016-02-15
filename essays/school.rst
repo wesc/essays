@@ -1,3 +1,5 @@
+School
+******
 
 To: Josie & Romy
 
@@ -5,7 +7,7 @@ Mark Zuckerberg begat a baby boy, Max, on December 1st, 2015. In the
 public announcement, he also `donated about $45 billion to charity`__.
 I unfortunately can't bestow $45 billion to the two of you or the
 public, but I will donate what every New York parent is rich in: a
-general neuroticism surrounding the school system [#non-rival-good]_.
+general neuroticism surrounding the school system. [#non-rival-good]_
 
 __ https://www.facebook.com/notes/mark-zuckerberg/a-letter-to-our-daughter/10153375081581634
 
@@ -43,11 +45,11 @@ chances of either of you getting in by lotto is zero.
 PS 38, 32, and 230 are G&T schools. Josie took the test a few weekends
 ago, and I asked her if she had fun and wanted to go back another
 weekend. She said yes, so I suppose that's a good sign. These schools
-are pretty decent and in the case of 38 and 32 show a lot of
-promise. But as in all G&T and privileged access (private schools),
-there's an uneasy ethnic / socioeconomic divide. It's easy to tell
-when you walk into a PS 38 classroom if it's G&T. I have not yet seen
-230, but I've heard the integration is much better there.
+are pretty decent. 230 is already a highly sought after school, and 38
+and 32 are catching up. But as in all G&T, there's an uneasy ethnic /
+socioeconomic divide. It's easy to tell when you walk into a PS 38
+classroom if it's G&T. I have not yet seen 230, but I've heard the
+integration is much better there.
 
 We are not fans of our zoned school, PS 261. While it has a very
 distinctive progressive core and administration, it's plagued with
@@ -123,16 +125,16 @@ damn" scale.
 
 Unfortunately, your chances of getting into either Children's School
 or BNS are near zero since they are essentially random lotto drawn
-from the entire district. Life in the public school system.
+from the entire district. Ah, life in the public school system.
 
 As for private schools, I still have a weird hangup about them, as I
 think a lot of people who grew up in the public school system
 do. However, Saint Ann's and Brooklyn Friends are both distinctive in
 that they don't just prescribe a method of teaching and what children
-should know, but they embrace an idea of how children should *be*. BNS
-and Children's School do too to the extent they can as public schools
-beholden to the Common Core. I wrote so much in a letter to Saint
-Ann's, as well as this:
+should know, but they embrace an idea of how children should
+*be*. Ditto BNS and Children's School to the extent they can as public
+schools beholden to the Common Core. I wrote so much in a letter to
+Saint Ann's:
 
   My wife and I both went through pretty intensive academic
   careers. She has a PhD. I’m the least educated in my family — my
@@ -180,31 +182,29 @@ somehow able to get by building higher and higher without helping
 alleviate pressure on the schools. This is the problem with
 residential real estate in NYC: there is no alignment between
 developers and the long term interests of residents. The developers
-get money the instant a unit is sold, but the residents deal with lack
-of schools long past the point the builders are out of the picture
-[#future-stream]_.
+get money when a unit sells, but the residents deal with lack of
+schools long past the point the builders are out of the
+picture. [#future-stream]_
 
 We're fortunate that we have the ability to send you to a place for
-essentially a boutique education [#finances]_. I think if I were able
+essentially a boutique education. [#finances]_ I think if I were able
 to look at your career outcomes for each of these options, they would
 look largely the same. But what your mother and I are hoping to get
 out of school is something more than just a good job. I find it rare
 for adults to truly want to continue learning, and truly *know* how to
 continue learning. Of course everybody believes they keep learning,
 but everybody also believes they are right and just, and we know there
-are plenty of people who are not. The trick for us is to find the best
-environment that ensures you will forever make forward progress. Wish
-us luck.
-
+are plenty of people who are not. Our task is to ensure you will
+forever make forward progress.
 
 .. [#non-rival-good] Neuroses are non-rival goods.
 
 .. [#future-stream] I wonder what it would look like if a developer
-received a portion tax revenue from apartments they built rather than
-from the sale. This would incentivize them to build things that have
-long lasting value.
+   received a portion tax revenue from apartments they built rather
+   than from the sale. This would incentivize them to build things
+   that have long lasting value.
 
 .. [#finances] It'll honestly be a financial stretch, but we've made
-the decision that we value experiences over things. I think people
-would agree, but few take it to the logical conclusion: better to live
-with less but do more.
+   the decision that we value experiences over things. I think people
+   would agree, but few take it to the logical conclusion: better to
+   live with less but do more.
