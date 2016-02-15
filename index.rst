@@ -12,3 +12,4 @@ Contents:
    :maxdepth: 2
 
    school
+   cs_degree
