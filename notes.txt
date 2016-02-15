@@ -1,0 +1,17 @@
+How to publish using github pages.
+
+1. source venv/bin/activate (virtualenv with sphinx installed)
+
+2. make html
+
+3. Switch to gh-pages branch.
+
+4. rsync -a -v _build/html/ ./
+
+5. git commit
+
+6. git push
+
+Changes get reflected on wesc.github.io/essays page
+automatically. It's also configured to accept requests to
+essays.aboveup.org, which is a CNAME that points to wesc.github.io.
