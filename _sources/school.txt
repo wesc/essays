@@ -5,7 +5,7 @@ February 1, 2016
 
 To: Josie & Romy
 
-Mark Zuckerberg begat a baby boy, Max, on December 1st, 2015. In the
+Mark Zuckerberg begat a baby girl, Max, on December 1st, 2015. In the
 public announcement, he also `donated about $45 billion to charity`__.
 I unfortunately can't bestow $45 billion to the two of you or the
 public, but I will donate what every New York parent is rich in: a
@@ -106,7 +106,7 @@ class, but *all* of Children's School is like that, which makes it
 truly a part of their identity. They have a deep institutional
 knowledge of how to teach kids like this, and their belief is that the
 kids with the "disadvantages" don't usually have all around
-"disadvantages". They can thrive quite well and can often times
+"disadvantages." They can thrive quite well and can often times
 surpass the gen-ed kids in their academic abilities. When I toured, I
 met a 5th grade girl who was quite possibly the most socially
 impressive 5th grader I have ever met. None of the other schools I
@@ -173,19 +173,18 @@ opportunity.
 Saint Ann's is our favorite between the two private schools, but both
 are great.
 
-It feels weird to be picking a school for the two of you that you may
-be at for the next 13 years, but this is what happens in NYC and this
-is why parents are neurotic. And if we don't opt for private, then
-we're looking at going through this process two more times, as well as
-insane overcrowding and budget problems where we live. Some of the
-biggest and best schools near us (PS 58) have started rejecting
-in-zone children because they don't have space, and developers are
-somehow able to get by building higher and higher without helping
-alleviate pressure on the schools. This is the problem with
-residential real estate in NYC: there is no alignment between
-developers and the long term interests of residents. The developers
-get money when a unit sells, but the residents deal with lack of
-schools long past the point the builders are out of the
+It feels weird to be picking a school for the next 13 years, but this
+is what happens in NYC and this is why parents are neurotic. And if we
+don't opt for private, then we're looking at going through this
+process two more times, as well as insane overcrowding and budget
+problems where we live. Some of the biggest and best schools near us
+(PS 58) have started rejecting in-zone children because they don't
+have space, and developers are somehow able to get by building higher
+and higher without helping alleviate pressure on the schools. This is
+the problem with residential real estate in NYC: there is no alignment
+between developers and the long term interests of residents. The
+developers get money when a unit sells, but the residents deal with
+lack of schools long past the point the builders are out of the
 picture. [#future-stream]_
 
 We're fortunate that we have the ability to send you to a place for
