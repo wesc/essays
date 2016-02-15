@@ -6,7 +6,8 @@
 Essays
 ======
 
-Contents:
+It's unclear if this is a net good for society, but here are some of
+my (Wes Chow) thoughts.
 
 .. toctree::
    :maxdepth: 2
