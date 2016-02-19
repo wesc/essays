@@ -204,7 +204,7 @@ of full time study.
 .. [#what-have-you-been-doing-for-2-years] Yes, it took me over 2
    years to publish this because I was trying to write the best static
    site generator. Those who can build their own tools are doomed to
-   build their own tools.
+   build their own tools. (I never finished it.)
 
 .. [#MIT] MIT `switched their famous 6.001 curriculum
    <https://groups.google.com/forum/#!msg/comp.lang.lisp/Tmon3cXr8xM/EJ1nIS5melEJ>`_
